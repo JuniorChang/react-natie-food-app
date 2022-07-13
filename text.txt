@@ -1,23 +1,14 @@
+VERSIONS
+
 {
   "dependencies": {
-    "@react-navigation/native": "^6.0.2",
-    "@react-navigation/stack": "^6.0.7",
-    "@reduxjs/toolkit": "^1.8.3",
-    "axios": "^0.27.2",
     "expo": "^45.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-native": "0.68.2",
-    "react-native-bouncy-checkbox": "^2.1.10",
-    "react-native-elements": "^3.4.2",
-    "react-native-gesture-handler": "~2.2.1",
     "react-native-google-places-autocomplete": "^2.4.1",
     "react-native-vector-icons": "^9.2.0",
-    "react-native-web": "0.17.7",
-    "react-redux": "^8.0.2",
-    "redux": "^4.2.0",
-    "redux-devtools-extension": "^2.13.9",
-    "tslib": "^2.4.0"
+    "react-native-web": "0.17.7"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
@@ -32,3 +23,17 @@
   "private": true,
   "name": "foodapp-reactnative"
 }
+
+
+
+
+
+TIMESTAMP : 3:55
+Just finished setting up ReduxStore
+
+
+
+
+GOOGLE API KEY = AIzaSyD8uzgl7zwRFthu07MmV_NKI4VDHcX1fLE
+
+YELP API = hrkuOyRF6_NrMn_CLI3GrSCpjvmLrCYiGi6XI46fy-_GQK8rE4lE1F_PGmq1MkBahRrCcB9U26B_-bv3uLqlzd_ZHGCWUR059Q_hB3kDv8FCZsOV5qC6D-58_u43YnYx
